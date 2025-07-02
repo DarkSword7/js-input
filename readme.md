@@ -21,9 +21,7 @@ const input = require("js-input-prompt");
   console.log(`Hello, ${name}!`);
 })();
 ```
-
 ### 🔍 Features
-
 Easy to use with async/await
 
 Works like Python’s input() function
@@ -33,7 +31,6 @@ Built on Node.js readline module
 Lightweight, zero dependencies
 
 ### 🧠 Example: Inside a Loop
-
 ```
 const input = require("js-input-prompt");
 
@@ -47,10 +44,9 @@ const input = require("js-input-prompt");
 ```
 
 ### 📄 License
-
 MIT License
 
 ### ✨ Author
 
 Ashutosh Tiwari
-[GitHub](https://github.com/darksword7/js-input) • [NPM](https://www.npmjs.com/package/js-input-prompt)
+[GitHub](https://github.com/darksword7/js-input) • [NPM](https://www.npmjs.com/package/js-input)
