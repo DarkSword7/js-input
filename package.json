@@ -1,5 +1,5 @@
 {
-  "name": "js-input",
+  "name": "js-input-prompt",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
