@@ -1,0 +1,23 @@
+{
+  "name": "js-input",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "A simple async input function in JavaScript like Python's input()",
+  "keywords": [
+    "input",
+    "prompt",
+    "javascript",
+    "nodejs",
+    "async",
+    "await"
+  ],
+  "author": "Ashutosh Tiwari (darksword7)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darksword7/js-input.git"
+  }
+}
